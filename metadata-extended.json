@@ -20,6 +20,7 @@
             "vat_id": ""
         },
         "about": {
+            "me":"NEXUS is a high performance, resilient and secure stake pool that has been up and running since March 2021.",
             "server": "Decentralized infrastructure with high availability architecture and air-gapped offline instance. High performance, low power consumption servers and energy coming from 100% renewable sources.",
             "company": ""
         },
