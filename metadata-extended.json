@@ -2,7 +2,6 @@
     "info": {
         "url_png_icon_64x64": "https://nexuspool.org/icon64.png",
         "url_png_logo": "https://nexuspool.org/icon.png",
-        "location": "Lisbon, Portugal",
         "social": {
             "twitter_handle": "NexusStake",
             "telegram_handle": "NEXUSCardanoStakePool",
@@ -21,7 +20,6 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Single Pool Operator from Lisbon, Portugal! I'm a crypto enthusiast and IT engineer for 15 years, working with enterprise solutions and financial services support and development.",
             "server": "Decentralized infrastructure with high availability architecture and air-gapped offline instance. High performance, low power consumption servers and energy coming from 100% renewable sources.",
             "company": ""
         },
