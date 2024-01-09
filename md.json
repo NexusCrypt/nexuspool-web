@@ -3,5 +3,5 @@
   "description": "The NEXUS Cardano Stake Pool.",
   "ticker": "NEXUS",
   "homepage": "https://nexuspool.org",
-  "extended": "https://raw.githubusercontent.com/nexuscrypt/nexus-pool/main/md-extended.json"
+  "extended": "https://raw.githubusercontent.com/nexuscrypt/pool/main/md-extended.json"
 }
